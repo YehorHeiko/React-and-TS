@@ -32,7 +32,7 @@ function CurrencyConvertor() {
 
         <div>
             <Dropdowns  currencies={currencies} title="From:"/>
-:           <Dropdowns currencies={currencies} title="To:"/>
+:           <Dropdowns currencies={currenciess} title="To:"/>
         </div>
 
         <div className="mt-4">
