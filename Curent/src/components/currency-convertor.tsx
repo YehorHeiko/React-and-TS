@@ -87,7 +87,7 @@ function CurrencyConvertor() {
         </div>
         <Dropdowns
           favorites={favorites}
-          currencies={currencies}
+          currencies={currenciess}
           title="To:"
           currency={toCurrency}
           setCurrency={setToCurrency}
